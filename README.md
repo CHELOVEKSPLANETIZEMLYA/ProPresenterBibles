@@ -27,7 +27,7 @@ MacOS:
 
 **Нельзя одновременно установить переводы NRT и IBS**
 
-https://telegra.ph/Ustanovka-perevodov-Biblii-v-ProPresenter-09-18
+(https://telegra.ph/Ustanovka-perevodov-Biblii-v-ProPresenter-10-04)
 
 ### Установка macOS
 
